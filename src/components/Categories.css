@@ -1,0 +1,15 @@
+/* Add this to your existing CSS file or create a new one */
+
+.category-card {
+    position: relative;
+    overflow: hidden;
+    border: none;
+    height:200px; /* Ensure the image takes the full height of the card */
+  }
+  
+  .category-image {
+    height: 100%; /* Ensure the image takes the full height of the card */
+    background-size: cover;
+    background-position: center;
+  }
+  
